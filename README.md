@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Hkay16
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning C/C++.
+- 💞️ I’m looking to collaborate on anything and everything!
+- ✨ I'm a college sophomore eager to learn!
+- 📫 How to reach me: hkpulisciano@crimson.ua.edu
