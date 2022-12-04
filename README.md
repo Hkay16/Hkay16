@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hkay16
+- 👋 Hi, I’m Haylee!
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C/C++.
-- 💞️ I’m looking to collaborate on anything and everything!
-- ✨ I'm a college sophomore eager to learn!
+- 🌱 I currently know C, C++, Java, Python, and SQL.
+- ✨ I'm a college junior.
+- 🤝 I am looking collaborate on anything and everything!
 - 📫 How to reach me: hkpulisciano@crimson.ua.edu
