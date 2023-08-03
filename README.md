@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Haylee!
-- 👀 I’m interested in Software Development.
-- 🌱 I currently know C, C++, Java, Python, and SQL.
-- ✨ I'm a college senior.
-- 🤝 I am looking collaborate on anything and everything!
-- 📫 How to reach me: hkpulisciano@crimson.ua.edu
+- I’m interested in Software Development.
+- I am best with C, C++, Java, Python, and SQL.
+- I've also worked with HTML, CSS, JS, and TS.
+- I'm a college senior, graduating in December 2023.
+- I am looking collaborate on anything and everything!
+- How to reach me: hkpulisciano@crimson.ua.edu
