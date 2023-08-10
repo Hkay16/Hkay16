@@ -6,3 +6,4 @@
 - I am currently working on a budgeting app using Flutter.
 - I am looking collaborate on anything and everything!
 - How to reach me: hkpulisciano@crimson.ua.edu
+- Connect with me on LinkedIn!
