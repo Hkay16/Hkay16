@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Haylee!
-- I’m interested in Software Development.
-- I am best with C, C++, Java, Python, and SQL.
-- I've also worked with HTML, CSS, JS, TS, and Dart.
-- I'm a college senior, graduating in December 2023.
-- I am currently working on a budgeting app using Flutter.
-- I am looking collaborate on anything and everything!
-- How to reach me: hkpulisciano@crimson.ua.edu
-- Connect with me on LinkedIn!
+👋 Hi, I’m Haylee!
+I have a Bachelors of Science in Computer Science at the University of Alabama
+
+My main interests are Software Development.
+I am best with C++, Java, JavaScript, HTML, CSS, Python, and C#.
+
+I am looking collaborate on anything and everything!
+How to reach me: hkpulisciano@crimson.ua.edu
+Connect with me on LinkedIn!
